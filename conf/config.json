@@ -1,0 +1,10 @@
+{
+  "TcpHost":  "0.0.0.0",
+  "TcpPort":  9010,
+  "ServerName": "PhalGo-TCP-Server",
+  "Version":  "V1.0",
+  "MaxConnNum": 1000,
+  "MaxPackageSize": 1024,
+  "WorkerPoolSize": 10,
+  "MaxWorkerTaskNum": 1024
+}
